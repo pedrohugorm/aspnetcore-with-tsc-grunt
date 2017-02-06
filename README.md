@@ -1,4 +1,4 @@
 # ASP.NET Core Project
 
-* Check example_tasks.json
+* Check tasks.example.json
 * Check build.sh
